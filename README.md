@@ -7,4 +7,5 @@ Generator network : generates deep fake images from some random distribution
 Discriminator network : discriminates between real and fake images
 
 Upon vigorous training, the generator network successfully generates handwritten digits that even the discriminator can't identify as fake. 
+
 And AI is here generating its own handwritten digits
